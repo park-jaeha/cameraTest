@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.93b1f02e.css",
-    "main.js": "/static/js/main.0c08000b.js",
-    "static/js/787.1fb29056.chunk.js": "/static/js/787.1fb29056.chunk.js",
-    "static/media/purple_logo.png": "/static/media/purple_logo.dfbae2780b78acbb8211.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.93b1f02e.css.map": "/static/css/main.93b1f02e.css.map",
-    "main.0c08000b.js.map": "/static/js/main.0c08000b.js.map",
-    "787.1fb29056.chunk.js.map": "/static/js/787.1fb29056.chunk.js.map"
+    "main.css": "/cameraTest/static/css/main.93b1f02e.css",
+    "main.js": "/cameraTest/static/js/main.2029bad3.js",
+    "static/js/787.1fb29056.chunk.js": "/cameraTest/static/js/787.1fb29056.chunk.js",
+    "static/media/purple_logo.png": "/cameraTest/static/media/purple_logo.dfbae2780b78acbb8211.png",
+    "static/media/logo.svg": "/cameraTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cameraTest/index.html",
+    "main.93b1f02e.css.map": "/cameraTest/static/css/main.93b1f02e.css.map",
+    "main.2029bad3.js.map": "/cameraTest/static/js/main.2029bad3.js.map",
+    "787.1fb29056.chunk.js.map": "/cameraTest/static/js/787.1fb29056.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93b1f02e.css",
-    "static/js/main.0c08000b.js"
+    "static/js/main.2029bad3.js"
   ]
 }
