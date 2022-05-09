@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.06c21a66.chunk.css",
-    "main.js": "/static/js/main.4fa93ec8.chunk.js",
-    "main.js.map": "/static/js/main.4fa93ec8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e6b2923f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e6b2923f.js.map",
-    "static/js/2.e48a9875.chunk.js": "/static/js/2.e48a9875.chunk.js",
-    "static/js/2.e48a9875.chunk.js.map": "/static/js/2.e48a9875.chunk.js.map",
-    "static/js/3.69c0a32a.chunk.js": "/static/js/3.69c0a32a.chunk.js",
-    "static/js/3.69c0a32a.chunk.js.map": "/static/js/3.69c0a32a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.06c21a66.chunk.css.map": "/static/css/main.06c21a66.chunk.css.map",
-    "static/js/2.e48a9875.chunk.js.LICENSE.txt": "/static/js/2.e48a9875.chunk.js.LICENSE.txt",
-    "static/media/nfc.1e1c9c72.svg": "/static/media/nfc.1e1c9c72.svg",
-    "static/media/spinner.e8697d57.gif": "/static/media/spinner.e8697d57.gif"
+    "main.css": "/cameraTest/static/css/main.06c21a66.chunk.css",
+    "main.js": "/cameraTest/static/js/main.73deb808.chunk.js",
+    "main.js.map": "/cameraTest/static/js/main.73deb808.chunk.js.map",
+    "runtime-main.js": "/cameraTest/static/js/runtime-main.443edf1b.js",
+    "runtime-main.js.map": "/cameraTest/static/js/runtime-main.443edf1b.js.map",
+    "static/js/2.e48a9875.chunk.js": "/cameraTest/static/js/2.e48a9875.chunk.js",
+    "static/js/2.e48a9875.chunk.js.map": "/cameraTest/static/js/2.e48a9875.chunk.js.map",
+    "static/js/3.69c0a32a.chunk.js": "/cameraTest/static/js/3.69c0a32a.chunk.js",
+    "static/js/3.69c0a32a.chunk.js.map": "/cameraTest/static/js/3.69c0a32a.chunk.js.map",
+    "index.html": "/cameraTest/index.html",
+    "static/css/main.06c21a66.chunk.css.map": "/cameraTest/static/css/main.06c21a66.chunk.css.map",
+    "static/js/2.e48a9875.chunk.js.LICENSE.txt": "/cameraTest/static/js/2.e48a9875.chunk.js.LICENSE.txt",
+    "static/media/nfc.1e1c9c72.svg": "/cameraTest/static/media/nfc.1e1c9c72.svg",
+    "static/media/spinner.e8697d57.gif": "/cameraTest/static/media/spinner.e8697d57.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6b2923f.js",
+    "static/js/runtime-main.443edf1b.js",
     "static/js/2.e48a9875.chunk.js",
     "static/css/main.06c21a66.chunk.css",
-    "static/js/main.4fa93ec8.chunk.js"
+    "static/js/main.73deb808.chunk.js"
   ]
 }
