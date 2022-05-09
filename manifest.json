@@ -1,19 +1,19 @@
 {
-  "short_name": "NEXEN",
-  "name": "NEXEN",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
-      "src": "black_logo.ico",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "Img_splash_192.ico",
-      "type": "image/ico",
+      "src": "logo192.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Img_splash_512.png",
+      "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -21,5 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#7f1085"
+  "background_color": "#ffffff"
 }
